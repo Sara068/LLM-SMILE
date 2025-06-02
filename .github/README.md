@@ -7,7 +7,7 @@ Large language models like GPT, LLAMA, and Claude have become incredibly powerfu
 
 ## 📊 SMILE Framework Overview
 
-![SMILE Framework Overview ](https://github.com/Sara068/LLM-SMILE/blob/main/docs/Figures/ExplainableLLM_Graphical_Abstract.png)
+![SMILE Framework Overview ](https://github.com/Sara068/LLM-SMILE/blob/main/docs/Figures/flowchart.png)
 
 ---
 
