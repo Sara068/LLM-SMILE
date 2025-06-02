@@ -6,10 +6,14 @@ Large language models like GPT, LLAMA, and Claude have become incredibly powerfu
 
 ![Graphical Abstract](https://github.com/Sara068/LLM-SMILE/blob/main/docs/Figures/ExplainableLLM_Graphical_Abstract.png)
 
-A full presentation of the SMILE framework is available on YouTube:  
-[**Watch on YouTube**](https://www.youtube.com/watch?v=pJePjOb2Tj4)
+A full presentation of the SMILE framework is available on YouTube.
 
-[![Watch the presentation](https://img.youtube.com/vi/pJePjOb2Tj4/hqdefault.jpg)](https://www.youtube.com/watch?v=pJePjOb2Tj4)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=pJePjOb2Tj4">
+    <img src="https://img.youtube.com/vi/pJePjOb2Tj4/hqdefault.jpg" alt="Watch the presentation" width="600">
+  </a>
+</p>
 
 📄 Full paper available on arXiv:  
 [https://arxiv.org/abs/2505.21657](https://arxiv.org/abs/2505.21657)
+
