@@ -23,3 +23,15 @@ Large language models like GPT, LLAMA, and Claude have become incredibly powerfu
 
 📄 Full paper available on arXiv:  
 [https://arxiv.org/abs/2505.21657](https://arxiv.org/abs/2505.21657)
+
+## 📜 Citation
+
+If you use this work, please cite the following paper:
+
+```bibtex
+@article{dehghani2025explainability,
+  title={Explainability of Large Language Models using SMILE: Statistical Model-agnostic Interpretability with Local Explanations},
+  author={Dehghani, Zeinab and Aslansefat, Koorosh and Khan, Adil and Akram, Mohammed Naveed},
+  journal={arXiv preprint arXiv:2505.21657},
+  year={2025}
+}
