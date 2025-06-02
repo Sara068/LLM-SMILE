@@ -13,7 +13,7 @@ Large language models like GPT, LLAMA, and Claude have become incredibly powerfu
 
 ## 🎓 Presentation
 
-We provide a full recorded presentation that introduces the SMILE framework and explains its methodology and evaluation in detail.
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=pJePjOb2Tj4)
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=pJePjOb2Tj4">
