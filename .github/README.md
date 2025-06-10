@@ -1,4 +1,4 @@
-# LLM_gSMILE
+# gSMILE: Statistical Model-agnostic Interpretability with Local Explanations for Generative AI Solutions (LLMs)
  
 [![Kaggle](https://img.shields.io/badge/View%20on-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/zeinabdehghani/llm-smile-gpt-3-5?scriptVersionId=243290348)
 
