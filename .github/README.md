@@ -31,7 +31,7 @@ If you use this work, please cite the following paper:
 ```bibtex
 @article{dehghani2025explainability,
   title={Explainability of Large Language Models using SMILE: Statistical Model-agnostic Interpretability with Local Explanations},
-  author={Dehghani, Zeinab and Aslansefat, Koorosh and Khan, Adil and Akram, Mohammed Naveed},
+  author={Dehghani, Zeinab and Akram, Mohammed Naveed and Aslansefat, Koorosh and Khan, Adil},
   journal={arXiv preprint arXiv:2505.21657},
   year={2025}
 }
